@@ -1,4 +1,40 @@
-# Erion Nezha — Personal Portfolio
+# Erion Nezha — Portofoli Personal 🇦🇱
+
+Portofoli personal i **Erion Nezhës**, Software Developer (Junior Web Developer) me bazë në Tiranë, Shqipëri.
+
+![Pamje nga demo](screenshot.png)
+
+## Demo live
+
+https://erionnezha.github.io/Portfolio/
+
+Janë përfshirë dy variante të faqes kryesore:
+
+- `index.html` — faqja kryesore
+- `index-particles.html` — faqe alternative me sfond të animuar grimcash
+
+## Përmbajtja
+
+- **Rreth meje** — biografia, vendndodhja (Tiranë, Shqipëri), detajet e kontaktit, aftësitë
+- **Shërbimet** — zhvillim web, dizajn responsive, implementim UI, JavaScript, bazat e Android, optimizim
+- **Portofoli** — gjashtë projekte reale me përshkrime dhe linke GitHub:
+  - Dertli Bot — chatbot AI në shqip
+  - Python Mini Projects — 24 projekte me turtle graphics
+  - Internet Service Provider — sistem menaxhimi Java Swing + MySQL
+  - Simple Food Ordering — aplikacion console në C++
+  - Memory Card Game — HTML/CSS/JS
+  - ERION IPTV — aplikacion TV (në progres)
+- **Kontakti** — formulari hap klientin e email-it të vizitorit përmes `mailto:` me subjekt dhe mesazh të plotësuar paraprakisht (nuk kërkon backend, funksionon në GitHub Pages)
+
+## Shënime
+
+Ndërtuar mbi shabllonin HTML të portofolit "Mason". Vetëm tekstet, linket, aftësitë dhe logjika e formularit të kontaktit u personalizuan për Erion Nezhën; dizajni, struktura dhe CSS e shabllonit u lanë të paprekura. Seksioni i dëshmive të shabllonit u hoq (pa komente të fabrikuara).
+
+© 2026 Erion Nezha. Të gjitha të drejtat e rezervuara.
+
+---
+
+# Erion Nezha — Personal Portfolio 🇬🇧
 
 Personal portfolio website of **Erion Nezha**, Software Developer (Junior Web Developer) based in Tirana, Albania.
 
