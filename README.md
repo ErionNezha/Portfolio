@@ -62,6 +62,6 @@ Two homepage variants are included:
 
 ## Notes
 
-Built on the "Mason" HTML portfolio template. Only texts, links, skills and the contact-form logic were personalized for Erion Nezha; the template's design, layout and CSS were left untouched. The template's testimonial section was removed (no fabricated reviews).
+Personal portfolio created by **Erion Nezha** — bio, skills, projects and contact section, with a working contact form (opens the visitor's email client via `mailto:`, no backend required).
 
 © 2026 Erion Nezha. All rights reserved.
